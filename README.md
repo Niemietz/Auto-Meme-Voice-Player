@@ -10,7 +10,7 @@ A Python script for OBS (Open Broadcaster Software) that plays a video media sou
 
 2. Install the `speech_recognition` requirement in which the script needs by opening the terminal, going to the folder where the script is located and running the command `pip install speech_recognition`
 
-3. Open **Scripts** window from Tools (T) -> Script and click at **Python Configuration** tab and set the location of Python installed on your machine
+3. Open **Scripts** window from **Tools (T) > Script** and click at **Python Configuration** tab and set the location of Python installed on your machine
 
 <img width="740" alt="image" src="https://github.com/Niemietz/Auto-Meme-Voice-Player/assets/8949271/0d398233-1b7f-4a04-b047-abccf7b9fbb4">
 
